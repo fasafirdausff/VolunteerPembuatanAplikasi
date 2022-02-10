@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Firdaus Ryan Pratomo, [Linkedin](https://www.linkedin.com/in/firdaus-ryan-pratomo-a01414177/).
